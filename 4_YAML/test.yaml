@@ -1,0 +1,39 @@
+nome: "Marcelo"
+idade: 26
+
+objeto:
+  versao: 2
+  arquivo: "teste.txt"
+
+# Comentário..
+
+versao: 2
+versao_completa: 3.14
+
+string_sem_aspas: Texto sem aspas
+string_com_aspas: "Texto com aspas"
+
+nulo_com_tio: ~
+nulo_com_null: null
+
+verdadeiro_com_true: True
+verdadeiro_com_on: On
+
+falso_com_false: False
+falso_com_off: Off
+
+lista_entre_colchetes: [1, 2, 3, 4, 5]
+lista_com_quebra_de_linha:
+  - "teste"
+  - 10
+  - oto teste
+  - True
+
+objeto_entre_chaves: {a: 1, b: 2, c: 3, obj_interno{a: 1}}
+
+objeto_com_quebra_de_linha:
+  a: 1
+  b: 2
+  c: 3
+  obj_interno:
+    x: 2
